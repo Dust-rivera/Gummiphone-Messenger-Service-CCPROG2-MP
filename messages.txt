@@ -1,0 +1,25 @@
+john|all|Meeting Reminder|Team meeting at 3 PM.  
+emma|all|Project Update|Final report is ready.  
+michael|all|Weekly Standup|Meeting tomorrow at 10 AM.  
+sophia|all|Lunch Plans|Let's grab lunch together.  
+david|all|Weekend Plans|Who's free this Saturday?  
+john|all|User "john" replied to Subject "Meeting Reminder"|I'll be there.  
+emma|all|User "emma" replied to Subject "Meeting Reminder"|Noted.  
+michael|all|User "michael" replied to Subject "Meeting Reminder"|See you then.  
+sophia|all|User "sophia" replied to Subject "Meeting Reminder"|Got it.  
+david|all|User "david" replied to Subject "Meeting Reminder"|Confirmed.  
+john|emma|User "john" replied to Subject "Project Update"|Thanks for the update.  
+michael|emma|User "michael" replied to Subject "Project Update"|Noted.  
+david|emma|User "david" replied to Subject "Project Update"|I'll review it.  
+john|michael|Game Night|Let's play at 8 PM.  
+sophia|michael|Game Night|Count me in!  
+david|michael|Game Night|What are we playing?  
+emma|michael|Game Night|I'll bring snacks.  
+emma|john|Dinner Plans|Where should we go?  
+sophia|john|Dinner Plans|Let's try Italian.  
+michael|john|Dinner Plans|How about sushi?  
+david|john|Dinner Plans|I'm down for burgers.  
+sophia|david|Movie Night|Watching Inception tonight.  
+john|david|Movie Night|I'll bring popcorn!  
+emma|david|Movie Night|Excited for this!  
+michael|david|Movie Night|I’ll get the drinks.  

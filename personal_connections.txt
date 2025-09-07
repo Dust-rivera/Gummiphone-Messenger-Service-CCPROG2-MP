@@ -1,0 +1,5 @@
+john|emma|michael  
+emma|john|sophia  
+michael|david|john  
+sophia|emma|david  
+david|michael|sophia  

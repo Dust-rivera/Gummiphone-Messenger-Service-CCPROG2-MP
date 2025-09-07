@@ -1,0 +1,5 @@
+john|John|pass123|Favorite holiday?|Christmas|Loves traveling|unlocked|no  
+emma|Emma|secure1|Favorite color?|Blue|Photography enthusiast|unlocked|no  
+michael|Michael|letmein|Favorite animal?|Dog|Gamer & tech geek|unlocked|no  
+sophia|Sophia|mypwd|Favorite food?|Pizza|Music lover|unlocked|no  
+david|David|qwerty|Favorite movie?|Inception|Techy nerd|unlocked|no  
